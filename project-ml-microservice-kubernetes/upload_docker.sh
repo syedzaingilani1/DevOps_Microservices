@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-export dockerpath=talha110/houstonprediction-rates
+export dockerpath=syedzaingilani/houstonprediction-rates
 
 # Step 2:  
 # Authenticate & tag
